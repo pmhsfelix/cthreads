@@ -1,2 +1,2 @@
 # cthreads
-Continuation-based User Mode threads
+Continuation-based User Mode Threads
